@@ -1,136 +1,83 @@
 # 📚 Everyday Words & Sentences
 
-*A Literacy Learning Web Application for Adults*
+A web-based literacy learning application designed to help adult learners improve basic reading and communication skills through interactive and accessible learning modules.
 
 ---
 
-## 📌 Project Overview
+# Features
 
-Everyday Words & Sentences is a web-based learning application designed to improve **basic literacy skills among adults**, especially in rural communities.
-
-The application helps users learn commonly used **words and sentences** through:
-
-* Visual aids
-* Audio pronunciation
-* Simple navigation
-* Local language (Telugu) support
-
-The goal is to make learning **accessible, engaging, and self-paced** for users with little or no formal education.
+- User Login & Signup
+- Category-Based Learning Modules
+- Telugu Translation Support
+- Audio Pronunciation Support
+- Quiz System with Score Tracking
+- Progress Tracking Dashboard
+- Gamification with Badges & Achievements
+- Responsive and User-Friendly Interface
 
 ---
 
-## 🎯 Objectives
+# Tech Stack
 
-* Improve reading and communication skills
-* Provide easy-to-understand learning content
-* Support regional language learning (Telugu)
-* Enable self-learning without dependency on formal education
+## Frontend
+- React.js
+- Tailwind CSS
+- JavaScript
 
----
+## Backend
+- Node.js (Lightweight)
 
-## ✨ Features
+## Storage
+- LocalStorage
 
-### 🔐 Authentication
-
-* User Login and Signup
-* Local data storage
-
----
-
-### 📊 Dashboard
-
-* Personalized welcome message
-* Overall learning progress
-* Resume learning feature
-* Achievement preview
+## Audio Support
+- Web Speech API
+- HTML5 Audio
 
 ---
 
-### 📚 Learning Modules
+# Learning Categories
 
-* Category-based learning:
-
-  * Greetings
-  * Shopping
-  * Health
-  * Daily Work
-  * Transport
-  * Food & Drink
-* Image-based word learning
-* Example sentences
-* Telugu translation support
-* Audio pronunciation
+- Greetings
+- Shopping
+- Health
+- Daily Work
+- Transport
+- Food & Drink
 
 ---
 
-### 🧠 Quiz System
+# Key Highlights
 
-* Category-based quizzes
-* Multiple-choice questions
-* Score tracking
-
----
-
-### 🏆 Achievements & Gamification
-
-* Badges for progress milestones
-* Category completion rewards
-* Quiz performance achievements
+- Designed for low-literacy and non-technical users
+- Simple and intuitive navigation
+- Offline-friendly learning structure
+- Self-paced learning experience
+- Responsive design across devices
 
 ---
 
-### 📈 Progress Tracking
+# Installation
 
-* Category-wise progress
-* Overall learning progress
+## Clone Repository
+```bash
+git clone https://github.com/Sheema6144/everyday-connect.git
+```
 
----
+## Navigate to Project Folder
+```bash
+cd everyday-connect
+```
 
-## 🛠️ Technology Stack
+## Install Dependencies
+```bash
+npm install
+```
 
-### Frontend
-
-* React.js
-* Tailwind CSS
-
-### Backend (Lightweight)
-
-* Node.js (optional/local)
-
-### Storage
-
-* LocalStorage (for progress & user data)
-
-### Audio
-
-* Web Speech API / HTML5 Audio
-
----
-
-## 🌐 Key Highlights
-
-* Simple and intuitive UI
-* Designed for low-literacy users
-* Offline-friendly structure
-* Gamified learning experience
-
----
-
-## 🚀 Future Enhancements
-
-* Voice input for pronunciation practice
-* Multi-language support
-* Cloud-based user data storage
-* Mobile application version
-
----
-
-## 👩‍💻 Developed By
-
-**Sheema Sadat**
-
----
-
-## 📄 Conclusion
-
-This project demonstrates how technology can be used to promote **functional literacy and digital empowerment**, making learning accessible to everyone regardless of their educational background.
+## Start Development Server
+```bash
+npm start
+```
+## Clone Repository
+```bash
+git clone https://github.com/Sheema6144/everyday-connect.git
